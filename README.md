@@ -1,4 +1,4 @@
-# Console Calculator: Programming project
+## Console Calculator: Programming project
 This is the first project in the programmer training program, which demonstrates the following skills: 
   - Writing source code (basic statements and expressions, working with numbers and strings)
   - Writing conditional code
