@@ -1,5 +1,5 @@
 # Console Calculator: Programming project
-This is the first project according to the learning path to become a programmer, which shows the following skills: 
+This is the first project in the programmer training program, which demonstrates the following skills: 
   - Writing source code (basic statements and expressions, working with numbers and strings)
   - Writing conditional code
   - Increasing efficiency with functions
