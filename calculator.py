@@ -1,4 +1,3 @@
-
 history = []
 
 def user_input():
