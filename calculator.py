@@ -2,9 +2,9 @@ history = []
 
 def user_input():
     try:
-        first_number = float(input("Enter the first number: "))
-        operator = input("Enter an operator (+, -, *, /): ")
-        second_number = float(input("Enter the second number: "))
+        first_number = float(input("Enter the first number:"))
+        operator = input("Enter an operator (+, -, *, /):")
+        second_number = float(input("Enter the second number:"))
         return first_number, operator, second_number
     except ValueError:
         print("It's wrong entry. Please try one more time.")
