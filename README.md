@@ -7,8 +7,8 @@ This is the first project according to the learning path to become a programmer,
   - Troubleshooting errors
 
 The project alows to:
- - calculate basic math operations with float and integer numbers from user input;
- - show and delete history of operations;
+ - calculate basic math operations with float and integer numbers from user input
+ - show and delete history of operations
  - handling errors
 
 ![Screenshot](/screenshot.png)
