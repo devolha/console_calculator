@@ -1,1 +1,1 @@
-# console_calculator
+Console Calculator: Programming project
