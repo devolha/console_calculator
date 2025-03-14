@@ -45,7 +45,6 @@ while True:
             break
         elif choice == 'h':
             display_history()
-            print(choice)
         elif choice == 'r':
             history.clear()
             display_history()
